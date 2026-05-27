@@ -1,0 +1,4 @@
+interface:
+  display_name: "Muffin SVN Table Flow"
+  short_description: "Run Muffin table update/edit/commit workflow safely."
+  default_prompt: "Use this skill when updating, editing, comparing, or committing Muffin Excel configuration tables through SVN."
